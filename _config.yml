@@ -1,8 +1,8 @@
-title: Title
+title: French Revolution and Its Effects on 19th Century Europe
 email: your-email@example.com
-description: by Authors
+description: by Zoe Thaxton, Briana Mendez, Nicole Granda, Andie Hirsch, and Katia Huddleston
 
-baseurl: "/ScholarMinPub" # the subpath of your site. Change it if the name of your repository is other than "mindoc"
+baseurl: "/Thaxton_Zoe_EUH3205" # the subpath of your site. Change it if the name of your repository is other than "mindoc"
 
 twitter_username: jekyllrb
 github_username:  jekyll
