@@ -1,5 +1,5 @@
 ---
-name: France Map Clergy Land Confiscated
+name: FranceMapClergyLandConfiscated
 media_type: image
 
 _title: Map showing clergy land being confiscated
