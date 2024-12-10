@@ -62,14 +62,6 @@ Furthermore, continuing into the 19th century, after the revolution’s start in
 
 The economic impact leading up to the French Revolution and the legacy it left behind is extremely important in understanding the significance of the French Revolution. Although a combination of political, social, and economic factors is ultimately what caused the French Revolution, it is critical to understand economic factors because of their long-lasting impact on the future of France, domestically and internationally.
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'RiseOfPrussia'" %}
-{% include media.html pages=media %}
-
-
-
-# Linking to a PDF File
-
-[Download PDF file]({{ site.baseurl }}/media_files/pdfs/newspaper1942.pdf)
 
 [^1]: Çolak 529 (MAKE PROPER)
 [^2]: Winks 8
