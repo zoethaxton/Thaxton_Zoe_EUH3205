@@ -28,7 +28,7 @@ Beck, Thomas. “The French Revolution and the Nobility: A Reconsideration.” J
 
 Çolak, Zeynep, and Yasemin Mumcu. “The Birth of Modernity: The Influence of the Renaissance, the Enlightenment and the French Revolution.” International Journal of Social Inquiry 16, no. 2 (December 2023): 523–39. 
 
-Economic consequences of revolutions: Evidence from the 1789 French Revolution | CEPR. Accessed December 10, 2024. https://cepr.org/voxeu/columns/economic-consequences-revolutions-evidence-1789-french-revolution. 
+Economic consequences of revolutions: Evidence from the 1789 French Revolution. CEPR. Accessed December 10, 2024. https://cepr.org/voxeu/columns/economic-consequences-revolutions-evidence-1789-french-revolution. 
 
 Foley, Susan K. Women in France since 1789 : The Meanings of Difference. New York: Palgrave Macmillan, 2004.
 
