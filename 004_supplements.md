@@ -4,7 +4,7 @@ title: Supplements
 number: 4
 ---
 
-# Supplements (2 plus timeline)
+# Supplements
 
 # Timeline
 
