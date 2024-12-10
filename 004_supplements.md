@@ -22,3 +22,6 @@ https://guides.loc.gov/women-in-the-french-revolution/revolutions-rebellions/178
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'ReactionstotheFrenchRevolution'" %}
 {% include media.html pages=media %}
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == '19thCenturyIsms'" %}
+{% include media.html pages=media %}
