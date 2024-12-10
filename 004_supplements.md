@@ -17,6 +17,9 @@ https://study.com/academy/lesson/video/europe-reacts-to-the-french-revolution.ht
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'revolutionsof1848'" %}
 {% include media.html pages=media %}
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'ReactionstotheFrenchRevolution'" %}
+{% include media.html pages=media %}
+
 Place your links here to websites that have information about your topic.
 
 # Supplementary Media Files
