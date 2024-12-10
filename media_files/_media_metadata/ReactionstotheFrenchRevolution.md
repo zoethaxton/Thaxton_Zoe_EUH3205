@@ -4,7 +4,7 @@ media_type: video
 
 _title: REACTIONS to the FRENCH REVOLUTION AP Euro Review—Unit 5 Topic 5
 description: video about various reactions to the French Revolution
-creator: Heimler's Hhistory
+creator: Heimler's History
 _date: 2022
 source: YouTube
 
