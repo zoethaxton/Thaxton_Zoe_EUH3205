@@ -39,9 +39,6 @@ Still, the French Revolution opened up opportunities for women to create politic
 
 However, the French Revolution also discouraged women from fighting for suffrage due to fears of being punished or destabilizing the new nation. For instance, Olympe de Gouges fiercely supported the revolution’s ideals of human rights but was disillusioned at the failure to extend them to women. In The Declaration of the Rights of Woman and the Female Citizen, de Gouges responds to women’s exclusion from the original document, affirming the importance of the nation like other revolutionaries did, while also diverging from the mainstream by arguing that women are “born free and [remain] equal to [men] in rights,” [^38]. By adopting revolutionary language of citizenship and natural rights but appropriating it for the purpose of gender equality, mainstream revolutionaries viewed her as a subversive force, ultimately executing her during the Reign of Terror. The fate of de Gouges and other female activists (branded as counterrevolutionaries) profoundly impacted how women approached their societal role in the 19th century. Women were expected to remain in the separate sphere of domesticity, away from politics. Republican women worried subverting this norm would cause turmoil in the fragile republic, so they chose to focus their agenda on civil rights and gradual improvement in living conditions rather than on women’s suffrage outright [^39]. European women elsewhere were also inspired by the ideals of the Revolution, but France’s repeated political upheaval made French women particularly concerned about undermining the republic by pushing too hard for suffrage.
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'PrussianInfantryHohenfriedberg'" %}
-{% include media.html pages=media %}
-
 
 # Analysis 3 - Economic Impact (Andie)
 
