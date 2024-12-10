@@ -63,15 +63,15 @@ Furthermore, continuing into the 19th century, after the revolution’s start in
 The economic impact leading up to the French Revolution and the legacy it left behind is extremely important in understanding the significance of the French Revolution. Although a combination of political, social, and economic factors is ultimately what caused the French Revolution, it is critical to understand economic factors because of their long-lasting impact on the future of France, domestically and internationally.
 
 
-[^1]: Çolak 529 (MAKE PROPER)
-[^2]: Winks 8
+[^1]: Çolak, Zeynep, and Yasemin Mumcu. “The Birth of Modernity: The Influence of the Renaissance, the Enlightenment and the French Revolution.” International Journal of Social Inquiry 16, no. 2 (December 2023): 529.
+[^2]: Winks, Robin W and Joan Neuberger. 2005. Europe and the Making of Modernity, 1815-1914. Oxford ; New York, Oxford University Press. 8
 [^3]: Goodwin, Christopher, Lecture
 [^4]: Goodwin, Christopher, Lecture 
-[^5]: Magraw, 29; 
-[^6]: Winks 8)
+[^5]: Magraw, Roger. France, 1815-1914: The Bourgeois Century. New York: Oxford University Press, 1986. 29.
+[^6]: Winks, Robin W and Joan Neuberger. 2005. Europe and the Making of Modernity, 1815-1914. Oxford ; New York, Oxford University Press. 8.
 [^7]: (Hutton, 15)
-[^8]: (Magraw, 29)
-[^9]: (Magraw, 30)
+[^8]: Magraw, Roger. France, 1815-1914: The Bourgeois Century. New York: Oxford University Press, 1986. 29.
+[^9]: Magraw, Roger. France, 1815-1914: The Bourgeois Century. New York: Oxford University Press, 1986. 30.
 [^10]: (Winks, 127)
 [^11]: (Winks, 128)
 [^12]: (Winks, 129)
