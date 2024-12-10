@@ -1,5 +1,5 @@
 ---
-name: Revolutions of 1848, Crash Course European History 26
+name: revolutionsof1848
 media_type: video
 
 _title: Revolutions of 1848, Crash Course European History 26
