@@ -13,6 +13,7 @@ number: 4
 # Supplementary Websites
 
 https://study.com/academy/lesson/video/europe-reacts-to-the-french-revolution.html 
+https://guides.loc.gov/women-in-the-french-revolution/revolutions-rebellions/1789-1830-1848
 
 # Supplementary Media Files
 
